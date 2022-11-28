@@ -2,7 +2,7 @@
  * BLOGGER TOC WITH ACCORDION EFFECT (SORT BY LABEL)
  * ---------------------------------------------------
  * by Shivaay Helper
- * URL: http://gplus.to/Shivapaswan
+ * URL: http://github.com/Shivapaswan
  * Modified by Shivaayhelper
  * URL: https://www.shivaayhelper.xyz
  * ---------------------------------------------------
