@@ -4,13 +4,13 @@
  * by Shivaay Helper
  * URL: http://github.com/Shivapaswan
  * Modified by Shivaayhelper
- * URL: https://www.shivaayhelper.xyz
+ * URL: https://www.lalitpaswan.com.np
  * ---------------------------------------------------
  */
 
 /*
 var toc_config = {
-	url: 'https://www.shivaayhelper.xyz',
+	url: 'https://www.lalitpaswan.comnp',
 	containerId: 'tb-sitemap',
 	showNew: 15,
 	newText: ' <strong style="font-weight:normal;font-style:normal;color:#fff;font-size:11px;background:#5c5a78;padding:1px 6px 3px 6px;line-height:normal;float:right;border-radius:3px;">New!</strong>',
